@@ -1,0 +1,15 @@
+Phase 1:
+- Get boxes to appear on webcam @done
+- Make an audible beep when person is detected. @done
+
+Phase 2:
+- Acquire CCTV footage for testing
+- Modify to stream prerecorded footage of two cameras.
+- Modify to only beep when people are in another room.
+- Modify the weights and test it out.
+- Proceed to Phase 3 when it is ready to be installed
+
+Phase 3:
+- Deploy to a SBC such as the Odroid.
+- Get a Speaker
+- Install at store.
