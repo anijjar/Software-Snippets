@@ -1,6 +1,0 @@
-# DoorMonitor
-
-The goal of this project is to alert people to when a door is opened by feeding a video stream from the CCTV camera into a computer vision algorithm for pedestrian detection.
-
-# MobileNet SSD Licence
-https://github.com/chuanqi305/MobileNet-SSD/blob/master/LICENSE
