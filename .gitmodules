@@ -1,0 +1,3 @@
+[submodule "UVic-Scraper"]
+	path = python/UVic-Scraper
+	url = https://github.com/anijjar/UVic-Scraper.git
